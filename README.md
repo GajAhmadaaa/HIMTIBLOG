@@ -1,4 +1,4 @@
-#faq blog himti
+# faq blog himti
 
 T: harus daftar jadi penulis tetap ya?\
 J: engga kok, kalian bebas submit kapan aja dengan form tersebut
