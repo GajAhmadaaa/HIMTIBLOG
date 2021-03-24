@@ -33,4 +33,4 @@ J: sstt kita gamau bocorin yg lainnya
 T: kok hadiahnya kecil sih?\
 J: iya mohon maaf karena proker tidak ada di RAB (nombok) :')
 
-for futher information contact : [naufaldi](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong/).
+**for futher information contact : [naufaldi](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong/).**
