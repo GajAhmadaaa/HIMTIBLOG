@@ -1,4 +1,4 @@
-T: harus daftar jadi penulis tetap ya?\n
+T: harus daftar jadi penulis tetap ya?\
 J: engga kok, kalian bebas submit kapan aja dengan form tersebut
 
 T: terus kalau mau daftar jadi penulis tetap bisa?
