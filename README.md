@@ -1,5 +1,5 @@
-T: harus daftar jadi penulis tetap ya?
-J: engga kok, kalian bebas submit kapan aja dengan form tersebut
+Q: harus daftar jadi penulis tetap ya?
+A: engga kok, kalian bebas submit kapan aja dengan form tersebut
 
 T: terus kalau mau daftar jadi penulis tetap bisa?
 J: mohon maaf tidak bisa
