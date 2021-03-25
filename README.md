@@ -1,7 +1,7 @@
 # Blog HIMTI
 
 ini merupakan sub-proker dari program kerja Content Writer [Divisi Komunikasi dan Informasi](https://himtiuinjkt.or.id/blog/program-kerja/divisi-komunikasi-dan-informasi/) HIMTI UIN Jakarta\
-tujuan dari kegiatan ini adalah mengembangkan bakat menulis mahasiswa/i Teknik Informatika UIN Jakarta sekaligus memanfaatkan sumber daya yang ada untuk menyalurkan karya mereka
+Tujuan dari program ini adalah untuk mengembangkan bakat menulis mahasiswa/i Teknik Informatika UIN Jakarta sekaligus memanfaatkan platform yang ada untuk menyalurkan karya- karya mereka
 
 [Cara upload karya](https://github.com/GajAhmadaaa/HIMTIBLOG/blob/main/cara.md)\
 [Benefit](https://github.com/GajAhmadaaa/HIMTIBLOG/blob/main/Benefit.md)\
