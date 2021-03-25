@@ -1,7 +1,7 @@
 # Blog HIMTI
 
 ini merupakan sub-proker dari program kerja web Divisi Komunikasi dan Informasi HIMTI UIN Jakarta\
-tujuan dari kegiatan ini adalah menciptakan karya (dalam hal ini adalah tulisan) sekaligus memanfaatkan sumber daya yang ada untuk mengembangkan bakat-bakat menulis
+tujuan dari kegiatan ini adalah mengembangkan bakat menulis mahasiswa/i Teknik Informatika UIN Jakarta sekaligus memanfaatkan sumber daya yang ada untuk menyalurkan karya mereka
 
 [Cara upload karya](https://github.com/GajAhmadaaa/HIMTIBLOG/blob/main/cara.md)\
 [Benefit](https://github.com/GajAhmadaaa/HIMTIBLOG/blob/main/Benefit.md)\
