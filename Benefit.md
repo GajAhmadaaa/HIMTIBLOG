@@ -14,4 +14,4 @@
 **akan dilaksanakan 2 kali pada bulan juni dan september
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
-[Kembali](https://github.com/GajAhmadaaa/blog)
+[Kembali](README.md)
