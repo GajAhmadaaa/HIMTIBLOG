@@ -37,3 +37,4 @@ T: Itu top 3 kontributor cuma dapet e-sertif doang?\
 J: sstt kita gamau bocorin yg lainnya
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**
+[Kembali](https://github.com/GajAhmadaaa/blog)
