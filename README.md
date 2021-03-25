@@ -8,3 +8,7 @@ Tujuan dari program ini adalah untuk mengembangkan bakat menulis mahasiswa/i Tek
 [FAQ](https://github.com/GajAhmadaaa/HIMTIBLOG/blob/main/FAQ.md)
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**
+
+cool people behind this project:
+Kominfo: [Anggi]{https://www.linkedin.com/in/anggita-m-72b253128/) [Naufaldi](https://www.linkedin.com/in/naufaldi-hafidhigbal-b079b9137/) [junas](https://www.linkedin.com/)
+Litbang: [Awiez](https://www.linkedin.com/in/awiez-fathwa-zein-025b331b0/) [Wahyu](https://www.linkedin.com/)
