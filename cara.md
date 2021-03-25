@@ -4,4 +4,5 @@
    Jika sudah bisa langsung ke tahap 2.
 2. Baca syarat dan ketentuan [disini](https://himtiuinjkt.or.id/)
 3. Pastikan karya kamu sudah dibuat dalam format yang ditentukan (docx, doc atau pdf)
-4. Buka laman [Form HIMTI](https://himtiuinjkt.or.id/blog/formulir/735/#) atau [Typeform](https://himtiblog.typeform.com/to/KdaC1fdL)
+4. Buka laman [Form HIMTI](https://himtiuinjkt.or.id/blog/formulir/735/#) atau [Typeform](https://himtiblog.typeform.com/to/KdaC1fdL) lalu selesaikan form
+5. Cek inbox email yang kalian isi untuk memastikan bahwa karya kalian sudah ter-submit
