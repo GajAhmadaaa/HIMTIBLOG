@@ -1,4 +1,4 @@
-# Cara upload karya
+# Cara submit karya
 
 1. Jika belum baca broadcast, baca [disini](https://himtiuinjkt.or.id/)
    - Jika sudah bisa langsung ke tahap 2.
