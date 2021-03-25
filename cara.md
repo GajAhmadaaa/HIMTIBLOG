@@ -11,4 +11,5 @@
 8. Karya kamu akan terpampang di blog HIMTI
 9. Kamu bisa mendapatkan berbagai [benefit](https://github.com/GajAhmadaaa/blog/blob/main/Benefit.md) setelah submit karya kamu
 
-**for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**
+**for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
+[Kembali](https://github.com/GajAhmadaaa/blog)
