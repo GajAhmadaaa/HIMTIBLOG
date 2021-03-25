@@ -10,7 +10,7 @@
 (Akan direset setiap tiga bulan sekali)
 5. Exposure di setiap postingan (bisa request)
 
-*akhir periode bulan desember
+*akhir periode bulan desember\
 **akan dilaksanakan 2 kali pada bulan juni dan september
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
