@@ -1,11 +1,11 @@
 # FAQ blog himti
-
+```
 **T: harus daftar jadi penulis tetap ya?**\
 J: engga kok, kalian bebas submit kapan aja dengan form tersebut
 
 **T: terus kalau mau daftar jadi penulis tetap bisa?**\
 J: mohon maaf tidak bisa
-
+```
 **T: periode nya berapa lama ya?**\
 J: periode berjalan selama 9 bulan
 
