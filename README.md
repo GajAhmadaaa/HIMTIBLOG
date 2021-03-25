@@ -1,5 +1,5 @@
 # Blog HIMTI
 
-FAQ : klik [disini](https://github.com/GajAhmadaaa/blog/blob/main/FAQ.md)
+[FAQ](https://github.com/GajAhmadaaa/blog/blob/main/FAQ.md)
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**
