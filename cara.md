@@ -11,4 +11,4 @@
 8. Karya kamu akan terpampang di blog HIMTI
 9. Kamu bisa mendapatkan berbagai benefit setelah meng-upload karya kamu
 
-**fod**
+**for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**
