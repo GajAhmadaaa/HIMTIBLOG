@@ -10,4 +10,5 @@
 4. Exposure di setiap postingan (bisa request)
 5. Menambah skill menulis dan berkarya
 
-**for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**
+**for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
+[Kembali](https://github.com/GajAhmadaaa/blog)
