@@ -5,8 +5,8 @@
 3. E-sertif untuk top 3 kontributor di akhir periode* (hasil akumulasi postingan selama periode)
 4. Hadiah total 60rb/3 bulan sekali* untuk top 3 kontributor
    - Top 1 : 30rb (dana/ovo/gopay)
-   - Top 2 : 20rb (dana/ovo/gopay)
-   - Top 3 : yt prem 1bulan (setara 10rb)\
+   - Top 2 : 20rb (dana/ovo/gopay)
+   - Top 3 : yt prem 1bulan (setara 10rb)\
 (Akan direset setiap tiga bulan sekali)
 5. Exposure di setiap postingan (bisa request)
 
