@@ -37,4 +37,4 @@ J: tenang, kalian bisa menggunakan nama pena sebagai penanda bahwa postingan itu
 J: sstt kita gamau bocorin yg lainnya
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
-[Kembali](https://github.com/GajAhmadaaa/blog)
+[Kembali](https://github.com/GajAhmadaaa/HIMTIBLOG)
