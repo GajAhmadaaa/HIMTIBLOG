@@ -1,3 +1,5 @@
+**Syarat dan Ketentuan
+
 1. Gunakanlah bahasa yang santun
 2. Featured image boleh request atau buat sendiri
 3. Tidak boleh mengandung politik, ujaran kebencian, rasisme, pornografi dan tindakan ilegal lainnya
