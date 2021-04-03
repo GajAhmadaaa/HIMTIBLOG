@@ -30,8 +30,5 @@ A: Bisa kok, penulis akan dinamakan anonymous. Tapi mohon maaf untuk post anonym
 **Q: Wah kok gitu sih, gaadil dong!**\
 A: Tenang, kalian bisa menggunakan nama pena sebagai penanda bahwa postingan itu karya kalian
 
-**Q: Itu top 3 kontributor cuma dapet e-sertif doang?**\
-A: Sstt... kita gamau bocorin yg lainnya. Langsung aja kirimin karya kalian sebanyak mungkin ya!
-
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
 [Kembali](https://github.com/GajAhmadaaa/HOSTING)
