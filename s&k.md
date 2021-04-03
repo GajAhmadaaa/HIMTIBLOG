@@ -14,4 +14,4 @@
 11. Saat ini belum ada batasan tema
 12. Peraturan bisa bertambah/berubah seiring berjalannya program.
 
-**for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
+**for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**
