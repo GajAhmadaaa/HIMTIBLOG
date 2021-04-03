@@ -11,7 +11,7 @@
 5. Exposure di setiap postingan (bisa request)
 
 *akhir periode adalah bulan desember\
-**akan dilaksanakan 2 kali pada bulan juni dan september
+**akan dilaksanakan 3 kali pada bulan juni, september dan desember
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
 [Kembali](https://github.com/GajAhmadaaa/HOSTING)
