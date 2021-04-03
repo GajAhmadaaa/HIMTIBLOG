@@ -4,6 +4,7 @@
 Tujuan dari program ini adalah untuk mengembangkan bakat menulis mahasiswa/i Teknik Informatika UIN Jakarta sekaligus memanfaatkan platform yang ada untuk menyalurkan karya-karya mereka
 
 [Cara submit karya](https://github.com/GajAhmadaaa/HIMTIBLOG/blob/main/cara.md)\
+[Syarat dan Ketentuan](https://github.com/GajAhmadaaa/HOSTING/blob/main/s&k.md)
 [Benefit](https://github.com/GajAhmadaaa/HIMTIBLOG/blob/main/Benefit.md)\
 [FAQ](https://github.com/GajAhmadaaa/HIMTIBLOG/blob/main/FAQ.md)
 
