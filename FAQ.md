@@ -1,40 +1,37 @@
 # FAQ
 
-**T: harus daftar jadi penulis tetap ya?**\
-J: engga kok, kalian bebas submit kapan aja dengan form tersebut
+**Q: Harus daftar jadi penulis tetap ya?**\
+A: engga kok, kalian bebas submit kapan aja dengan form tersebut
 
-**T: terus kalau mau daftar jadi penulis tetap bisa?**\
-J: mohon maaf tidak bisa
+**Q: Terus kalau mau daftar jadi penulis tetap bisa?**\
+A: Tidak ada open recruitment untuk jadi penulis tetap ya. Tapi kalian bisa mengirimkan karya kalian sebanyak mungkin!
 
-**T: periode nya berapa lama ya?**\
-J: periode berjalan selama 9 bulan
+**Q: Periode nya berapa lama ya?**\
+A: Periode pertama ini dibuka dari bulan April - Desember (total 9 bulan)
 
-**T: Itu beneran dapet canva pro 1 tahun?**\
-J: iya bener
+**Q: Itu beneran dapet canva pro 1 tahun?**\
+A: Iya bener 🤤
 
-**T: itu canva pro 1 tahun bisa diuangin ga?**\
-J: mohon maaf tidak bisa
+**Q: Itu canva pro 1 tahun sama youtube premiumnya bisa diuangin ga?**\
+A: Mohon maaf tidak bisa🙏
 
-**T: hadiah top 3 diadain kapan aja?**\
-J: bulan juni, september dan agustus awal minggu kedua
+**Q: Hadiah top 3 kontributor diberikan kapan aja?**\
+A: Diakumulasi untuk periode 3 bulan sekali ya; bulan Juni, September dan Desember. Tepatnya awal minggu kedua pada bulan yang telah disebutkan
 
-**T: Itu top 3 yang yt prem bisa diuangin ga?**\
-J: mohon maaf tidak bisa
+**Q: Terus kalo top 1 dan 2 jumlah postingannya sama gimana?**\
+A: Hadiah akan dibagi sama rata, begitu juga jika dengan top 3
 
-**T: terus kalo top 1 dan 2 jumlah postingannya sama gimana?**\
-J: hadiah akan dibagi sama rata, begitu juga jika dengan top 3
+**Q: Exposure nya kaya gimana?**\
+A: Jadi nanti di setiap post akan ada profil kalian sesuai request (nama/linkedin/instagram/youtube/blog/github/dll)
 
-**T: exposure nya kaya gimana?**\
-J: jadi nanti di setiap post akan ada profil kalian sesuai request (nama/linkedin/instagram/youtube/blog/github/dll)
+**Q: Kalo data penulis gamau dipublish gimana?**\
+A: Bisa kok, penulis akan dinamakan anonymous. Tapi mohon maaf untuk post anonymous tidak bisa diikutkan kedalam akumulasi postingan
 
-**T: kalo data penulis gamau dipublish gimana?**\
-J: bisa kok, penulis akan dinamakan anonymous. Tapi mohon maaf untuk post anonymous tidak bisa diikutkan kedalam akumulasi postingan
+**Q: Wah kok gitu sih, gaadil dong!**\
+A: Tenang, kalian bisa menggunakan nama pena sebagai penanda bahwa postingan itu karya kalian
 
-**T: wah kok gitu sih, gaadil dong!**\
-J: tenang, kalian bisa menggunakan nama pena sebagai penanda bahwa postingan itu karya kalian
-
-**T: Itu top 3 kontributor cuma dapet e-sertif doang?**\
-J: sstt kita gamau bocorin yg lainnya
+**Q: Itu top 3 kontributor cuma dapet e-sertif doang?**\
+A: Sstt... kita gamau bocorin yg lainnya. Langsung aja kirimin karya kalian sebanyak mungkin biar bisa dapet hadiahnya ya!
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
 [Kembali](https://github.com/GajAhmadaaa/HIMTIBLOG)
