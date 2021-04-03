@@ -1,4 +1,4 @@
-**Syarat dan Ketentuan
+**Syarat dan Ketentuan**
 
 1. Gunakanlah bahasa yang santun
 2. Featured image boleh request atau buat sendiri
