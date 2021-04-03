@@ -6,6 +6,7 @@ Tujuan dari program ini adalah untuk mengembangkan bakat menulis mahasiswa/i Tek
 [Cara submit karya](https://github.com/GajAhmadaaa/HOSTING/blob/main/cara.md)\
 [Syarat dan Ketentuan](https://github.com/GajAhmadaaa/HOSTING/blob/main/s&k.md)\
 [Benefit](https://github.com/GajAhmadaaa/HOSTING/blob/main/Benefit.md)\
+[Format penulisan](https://docs.google.com/document/d/1CFOtxMfN7PDzN0kzFeIDH6heKBPqDuUVeTauKM0ywzg/edit)\
 [Contoh File](https://docs.google.com/document/d/1YHxximEPsbzBPXJRrsAes1ys8yNyOnauHTVKVT6L8Is/edit?usp=sharing)\
 [FAQ](https://github.com/GajAhmadaaa/HOSTING/blob/main/FAQ.md)
 
