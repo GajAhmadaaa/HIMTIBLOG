@@ -4,7 +4,7 @@
 2. Featured image boleh request atau buat sendiri
 3. Tidak boleh mengandung politik, ujaran kebencian, rasisme, pornografi dan tindakan ilegal lainnya
 4. Naskah 400-1100 kata
-5. Ikuti contoh [format penulisan](himtiuinjkt.ac.id)
+5. Ikuti contoh [format penulisan](https://docs.google.com/document/d/1CFOtxMfN7PDzN0kzFeIDH6heKBPqDuUVeTauKM0ywzg/edit?usp=sharing)
 6. Font Roboto, ukuran font 12, line spacing 1.5
 7. Format penamaan file: HOSTING_author_judul
 8. Kirim dalam bentuk doc atau docx
