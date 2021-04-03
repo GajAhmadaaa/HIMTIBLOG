@@ -7,7 +7,7 @@
 7. Format penamaan file: HOSTING_author_judul
 8. Kirim dalam bentuk doc atau docx
 9. Kirim melalui form yang sudah disediakan
-10. Diperbolehkan menyelipkan sosial media, barang dagangan, dll untuk promosi selama tidak melanggar peraturan no 3\n
+10. Diperbolehkan menyelipkan sosial media, barang dagangan, dll untuk promosi selama tidak melanggar peraturan no 3/n
 (contoh: konten membahas cara memakai masker yang baik dan benar, kamu boleh mempromosikan dagangan masker mu)
 11. Saat ini belum ada batasan tema
 12. Peraturan bisa bertambah/berubah seiring berjalannya program.
