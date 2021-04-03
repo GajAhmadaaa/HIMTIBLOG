@@ -34,4 +34,4 @@ A: Tenang, kalian bisa menggunakan nama pena sebagai penanda bahwa postingan itu
 A: Sstt... kita gamau bocorin yg lainnya. Langsung aja kirimin karya kalian sebanyak mungkin ya!
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
-[Kembali](https://github.com/GajAhmadaaa/HIMTIBLOG)
+[Kembali](https://github.com/GajAhmadaaa/HOSTING)
