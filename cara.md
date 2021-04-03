@@ -9,7 +9,7 @@
 6. Cek inbox email yang kalian isi di form untuk memastikan bahwa karya kalian sudah ter-submit
 7. Kamu akan dihubungi admin untuk konfirmasi dan proses penyuntingan
 8. Karya kamu akan terpampang di blog HIMTI
-9. Kamu bisa mendapatkan berbagai [benefit](https://github.com/GajAhmadaaa/blog/blob/main/Benefit.md) setelah submit karya kamu
+9. Kamu bisa mendapatkan berbagai [benefit](https://github.com/GajAhmadaaa/HOSTING/blob/main/Benefit.md) setelah submit karya kamu
 
 **for futher information contact : [admin](https://wa.me/6289638065793?text=mau+nanya+tentang+blog+dong).**\
-[Kembali](https://github.com/GajAhmadaaa/HIMTIBLOG)
+[Kembali](https://github.com/GajAhmadaaa/HOSTING)
