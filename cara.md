@@ -7,7 +7,7 @@
 4. Sumbit karya dan data dirimu [disini](https://himtiuinjkt.or.id/blog/formulir/735/#)
    - Jika ada kendala silahkan hubungi [admin](https://wa.me/6289638065793)
 6. Cek inbox email yang kalian isi di form untuk memastikan bahwa karya kalian sudah ter-submit
-7. Kamu akan dihubungi admin untuk konfirmasi dan proses penyuntingan
+7. Kamu akan dihubungi admin maksimal 1x24jam untuk konfirmasi dan proses penyuntingan
 8. Karya kamu akan terpampang di blog HIMTI
 9. Kamu bisa mendapatkan berbagai [benefit](https://github.com/GajAhmadaaa/HOSTING/blob/main/Benefit.md) setelah submit karya kamu
 
